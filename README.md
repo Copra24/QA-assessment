@@ -26,3 +26,8 @@ To set up the project locally, follow these steps:
 ## Running the Tests
 
 To execute the automation tests, use the following command:
+
+Test Cases and Report
+Attached is a google sheet link to Test cases and reports for this project
+
+https://docs.google.com/spreadsheets/d/1_IPGNkmFDfQDdBxAhkh9vdRpZiQskTJ2kqRFKMePMkI/edit?usp=sharing
